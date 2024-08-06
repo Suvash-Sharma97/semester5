@@ -1,0 +1,10 @@
+P123 C005 2023-01-05 5 Excellent product!
+P123 C006 2023-01-06 4 Pretty good product.
+P123 C007 2023-01-07 4 It's okay.
+P123 C008 2023-01-08 5 Loved it!
+P123 C009 2023-01-09 2 Not great.
+P456 C010 2023-01-10 4 Decent product.
+P456 C011 2023-01-11 3 Average experience.
+P456 C012 2023-01-12 5 Best purchase ever!
+P456 C013 2023-01-13 1 Terrible product.
+P789 C014 2023-01-14 5 Fantastic product!

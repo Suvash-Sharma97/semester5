@@ -1,0 +1,10 @@
+P789 C015 2023-01-15 2 Could be better.
+P789 C016 2023-01-16 4 Satisfied with the purchase.
+P789 C017 2023-01-17 3 Just okay.
+P789 C018 2023-01-18 1 Very disappointing.
+P999 C019 2023-01-19 5 Amazing quality!
+P999 C020 2023-01-20 4 Good value for money.
+P999 C021 2023-01-21 3 Mediocre.
+P999 C022 2023-01-22 2 Expected more.
+P999 C023 2023-01-23 4 Works well.
+P999 C024 2023-01-24 5 Perfect!
